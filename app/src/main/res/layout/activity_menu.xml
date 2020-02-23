@@ -24,7 +24,7 @@
         android:layout_height="69dp"
         android:layout_marginTop="156dp"
         android:layout_marginBottom="388dp"
-        android:text="Start"
+        android:text="@string/startButton_Text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
